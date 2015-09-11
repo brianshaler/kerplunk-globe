@@ -2,7 +2,7 @@
   "name": "kerplunk-globe",
   "displayName": "Globe",
   "description": "Interactive 3D Globe view",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "kerplunk-plugin",
     "kp:Dashboard",
